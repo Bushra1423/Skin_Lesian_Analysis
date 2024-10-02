@@ -1,4 +1,4 @@
-# Skin Lesian Analysis
+# Skin Lesion Analysis
 1. Developed a convolutional neural network (CNN) model to classify various types of skin lesions, such as melanoma, basal cell carcinoma, and actinic keratosis, from dermoscopic images.
 2. Utilized TensorFlow and Keras for model architecture and training.
 3. Applied data augmentation using Augmentor to increase dataset diversity and improve model generalization.
